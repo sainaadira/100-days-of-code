@@ -28,8 +28,6 @@
 **Thoughts** I am getting back into coding more consistently. I had to refresh my memory with middleware and HTTP request codes but I am feeling more comfortable with understanding how middleware works and the importance of utilizing middleware with node.js.
 
 
-
-<<<<<<< HEAD
 ### Day 2: Tuesday October 29,2019
 
 **Today's Progress**: I read a chapter on functions from JSway on Github. I waned to refresh my memory on the importance of functions regarding algorithmic thinking. I also completed an 8kyu codewar challenge.
@@ -89,10 +87,4 @@
 **Today's Progress**: Progressing through freecodecamp and I am almost 1/2 way done with the JS Data Structures and Algorithms. I completed a codewar with two solutions. I need to work at sitting through the challenge and figuring out how to break the problem down. I still feel kind of bad for running to Google to be my savior but I also need to realise that Google is and will always be necessary throughout my programming journey.
 
 **Thoughts**  No thoughts today. I just want to keep the motivation going.
-=======
-### Day 1: Tuesday October 29,2019
 
-**Today's Progress**: I read a chapter on functions from JSway on Github. I waned to refresh my memory on the importance of functions regarding algorithmic thinking. I also completed an 8kyu codewar challenge. 
-
-**Thoughts** I am happy to refresh my memory today. It was a reminder of what I already knew and areas I needed to brush up on. I played around with code jsbin as well. I think overall, my biggest challenge with programming was the fear of messing up. I am really working on being patient with myself, reading and working through what I don't understanding and figuring out how to apply what I've learned in later challenges.
->>>>>>> 52fa14118a7a252463d786431197fcf58feb7dfb
